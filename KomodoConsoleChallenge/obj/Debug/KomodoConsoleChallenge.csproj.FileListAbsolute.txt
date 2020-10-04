@@ -1,0 +1,7 @@
+C:\Users\ymjul\source\repos\KomodoConsoleChallenge\KomodoConsoleChallenge\bin\Debug\KomodoConsoleChallenge.exe.config
+C:\Users\ymjul\source\repos\KomodoConsoleChallenge\KomodoConsoleChallenge\bin\Debug\KomodoConsoleChallenge.exe
+C:\Users\ymjul\source\repos\KomodoConsoleChallenge\KomodoConsoleChallenge\bin\Debug\KomodoConsoleChallenge.pdb
+C:\Users\ymjul\source\repos\KomodoConsoleChallenge\KomodoConsoleChallenge\obj\Debug\KomodoConsoleChallenge.csprojAssemblyReference.cache
+C:\Users\ymjul\source\repos\KomodoConsoleChallenge\KomodoConsoleChallenge\obj\Debug\KomodoConsoleChallenge.csproj.CoreCompileInputs.cache
+C:\Users\ymjul\source\repos\KomodoConsoleChallenge\KomodoConsoleChallenge\obj\Debug\KomodoConsoleChallenge.exe
+C:\Users\ymjul\source\repos\KomodoConsoleChallenge\KomodoConsoleChallenge\obj\Debug\KomodoConsoleChallenge.pdb
